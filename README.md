@@ -1,3 +1,3 @@
 # hello-world
 
-you know what? Peggy love Silly.
+you know what? Peggy loves Silly.
